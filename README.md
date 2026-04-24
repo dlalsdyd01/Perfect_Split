@@ -30,6 +30,10 @@
 | `오차 ≤ 5%` | **GREAT** |
 | `오차 ≤ 15%` | **GOOD** |
 
+<img width="1170" height="2407" alt="KakaoTalk_Photo_2026-04-23-23-10-41" src="https://github.com/user-attachments/assets/73da6a8a-3af7-4858-a788-e99d8847b083" />
+<img width="1170" height="2391" alt="KakaoTalk_Photo_2026-04-23-23-10-35 001" src="https://github.com/user-attachments/assets/21619490-2b4f-48a8-ab14-585358775273" />
+<img width="1170" height="2391" alt="KakaoTalk_Photo_2026-04-23-23-10-35 002" src="https://github.com/user-attachments/assets/aa6a917c-95bf-41fc-adc9-65e8f968cf82" />
+
 ---
 
 ## 주요 기능
@@ -151,8 +155,6 @@ Xcode에서 `Cmd + R`로 빌드 및 실행.
 - [x] 1.0 — 첫 출시 (80 스테이지, 2 난이도)
 - [ ] 1.1 — 광고 제거 인앱 결제
 - [ ] 1.2 — Game Center 리더보드 연동
-- [ ] 1.3 — 추가 도형 팩 & 테마
-- [ ] 2.0 — 사용자 제작 스테이지 (Level Editor)
 
 ---
 
@@ -167,6 +169,5 @@ Copyright © 2026 Minyong Lee. All rights reserved.
 
 <div align="center">
 
-**Made with precision in Seoul**
 
 </div>
